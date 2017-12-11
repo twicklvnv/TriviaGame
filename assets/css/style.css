@@ -1,0 +1,26 @@
+body {
+	background-image: url("../images/wood-background.jpg");
+}
+
+h1 {
+	color:white;
+	text-align:center;
+	font-size:56px;
+}
+
+.jumbotron {
+	background-image: url("../images/71OM6msYAPL._SL1101_.jpg");
+	height:900px;
+	color:white;
+	font-size:24px;
+	text-align:center;
+}
+
+.answer-btn:hover {
+	color:black;
+	background-color:yellow;
+}
+
+#result1, #result2, #result3, #result4, #result5 {
+	color:black;
+}
